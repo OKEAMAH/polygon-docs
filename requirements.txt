@@ -3,3 +3,4 @@ markdown-include==0.8.1
 mkdocs-open-in-new-tab==1.0.3
 mkdocs-multirepo-plugin==0.7.0
 mkdocs-redirects==1.2.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
